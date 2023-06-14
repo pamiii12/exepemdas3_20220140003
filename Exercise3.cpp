@@ -73,7 +73,7 @@ int main() {
 	penerbit* varPenerbit4 = new penerbit("Asroni");
 	pengarang* varPengarang1 = new pengarang("Gama Press");
 	pengarang* varPengarang2 = new pengarang("Intan Pariwara");
-	Buku* 
+	Buku* varBuku1 = new Buku
 
 	varPengarang1->tambahPenerbit(varPenerbit1);
 	varPengarang1->tambahPenerbit(varPenerbit2);
